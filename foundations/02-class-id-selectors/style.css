@@ -1,0 +1,17 @@
+.odd {
+  background-color: rgb(244, 114, 182);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#even {
+  color: hsl(224, 79%, 51%);
+  font-size: 36px;
+}
+#evener {
+  background-color: rgb(42, 234, 160);
+  font-size: 24px;
+  font-weight: 800;
+}
+.font-size-24 {
+  font-size: 24px;
+}
